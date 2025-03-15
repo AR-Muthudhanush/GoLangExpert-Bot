@@ -1,10 +1,9 @@
 # GoLangExpert-Bot
 
-![User Prompt and Response](image.png)  
 *A Telegram bot for answering Go programming language queries.*
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1HJsWfXiEDcuxuUkD_sz0WVfPA0PIxH5N" width="600">
+  <img src="https://drive.google.com/uc?export=view&id=1HJsWfXiEDcuxuUkD_sz0WVfPA0PIxH5N" width="400">
 </p>
 
 ## 📌 About
