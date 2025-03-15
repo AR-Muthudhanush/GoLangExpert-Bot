@@ -1,0 +1,2 @@
+working.py will work basic to gemini (is working)
+bot.py is work under progress for fine tune 
