@@ -3,7 +3,7 @@
 *A Telegram bot for answering Go programming language queries.*
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1HJsWfXiEDcuxuUkD_sz0WVfPA0PIxH5N" width="400" height="300">
+  <img src="https://drive.google.com/uc?export=view&id=1HJsWfXiEDcuxuUkD_sz0WVfPA0PIxH5N" width="300" height="400">
 </p>
 
 ## 📌 About
