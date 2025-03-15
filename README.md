@@ -3,7 +3,7 @@
 *A Telegram bot for answering Go programming language queries.*
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1HJsWfXiEDcuxuUkD_sz0WVfPA0PIxH5N" width="400">
+  <img src="https://drive.google.com/uc?export=view&id=1HJsWfXiEDcuxuUkD_sz0WVfPA0PIxH5N" width="400" height="500">
 </p>
 
 ## 📌 About
@@ -44,7 +44,4 @@ GoLangExpert-Bot scrapes data from the Go community and official documentation t
 
 ## 🤝 Contributing
 Feel free to fork the repo and submit a pull request with improvements.
-
-## 📜 License
-This project is licensed under the MIT License.
 
